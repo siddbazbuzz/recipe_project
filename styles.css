@@ -71,3 +71,17 @@ th {
     padding: 10px;
     text-align: left;
 }
+
+iframe {}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+
+}
+
+footer a {
+    color: red;
+
+}
